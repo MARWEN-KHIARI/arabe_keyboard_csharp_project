@@ -1,0 +1,15 @@
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\ResolveAssemblyReference.cache
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\ar_clavier.Form1.resources
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\ar_clavier.Properties.Resources.resources
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\GenerateResource.read.1.tlog
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\GenerateResource.write.1.tlog
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\bin\Release\ar_clavier.exe.config
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\bin\Release\ar_clavier.exe.manifest
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\bin\Release\ar_clavier.application
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\bin\Release\ar_clavier.exe
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\bin\Release\ar_clavier.pdb
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\ar_clavier.TrustInfo.xml
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\ar_clavier.exe.manifest
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\ar_clavier.application
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\ar_clavier.exe
+D:\WORK\Visual Studio 2010\Projects\ar_clavier\ar_clavier\obj\Release\ar_clavier.pdb
